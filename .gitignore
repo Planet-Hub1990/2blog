@@ -1,0 +1,10 @@
+# Hugo 自动生成的目录
+public/
+resources/
+
+# 临时文件
+.hugo_build.lock
+
+# 操作系统产生的杂碎文件
+Thumbs.db
+.DS_Store
